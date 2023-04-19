@@ -8,4 +8,5 @@
 
 So take a look around, check out my projects, and feel free to reach out if you want to chat about data or just share your favorite burger place 🍔🤤. Let's get to work!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danupurnomo&label=Profile%20views&color=0e75b6&style=flat" alt="zakish29" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakish29&show_icons=true&locale=en" alt="zakish29" /></p>
